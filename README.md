@@ -7,6 +7,11 @@ I'm currently dedicating my time to developing a UI library called [React MIDI E
 
 ![pianoroll](https://github.com/chanyatfu/chanyatfu/assets/45863731/9c69528b-1da9-45e6-af3b-2af8b1cf5bf8)
 
+## 🎓 For HKU CS/CE/EE/EEE Student
+
+For students in CS, CE, EE, and EEE at HKU, I've created a [LaTeX template](https://github.com/chanyatfu/hku-eee-style) tailored for school reports, specifically adhering to CAES9541 and ELEC4848 (FYP) standards. Designed to eliminate the hassle of adjusting document layouts and styling settings, this template has proven its worth by securing an A grade in 2024. It's available for cloning or as a template for your academic projects.
+
+
 ## 📚 What I am learning right now...
 
 As an active learner, I'm constantly seeking to broaden my programming knowledge. Books and blog posts are my go-to resources for new insights and deep dives into complex topics. Currently, I'm immersed in [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/) to master the intricacies of JavaScript.
@@ -20,9 +25,6 @@ Throughout my learning journey, I've encountered several books that have profoun
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): A hands-on guide to machine learning with Python, packed with practical examples and easy-to-follow code.
 - [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/): This book demystifies generative models, including transformers, through progressive and accessible examples.
 
-## For HKU CS/CE/EE/EEE Student
-
-For students in CS, CE, EE, and EEE at HKU, I've created a [LaTeX template](https://github.com/chanyatfu/hku-eee-style) tailored for school reports, specifically adhering to CAES9541 and ELEC4848 (FYP) standards. Designed to eliminate the hassle of adjusting document layouts and styling settings, this template has proven its worth by securing an A grade in 2024. It's available for cloning or as a template for your academic projects.
 
 <!--
 **chanyatfu/chanyatfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
