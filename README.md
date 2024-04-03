@@ -9,7 +9,7 @@ I'm currently dedicating my time to developing a UI library called [React MIDI E
 
 ## 🎓 For HKU CS/CE/EE/EEE Student
 
-For students in CS, CE, EE, and EEE at HKU, I've created a [LaTeX template](https://github.com/chanyatfu/hku-eee-style) tailored for school reports, specifically adhering to CAES9541 and ELEC4848 (FYP) standards. Designed to eliminate the hassle of adjusting document layouts and styling settings, this template has proven its worth by securing an A grade in 2024. It's available for cloning or as a template for your academic projects.
+For students in CS, CE, EE, and EEE at HKU, I've created a [LaTeX template](https://github.com/chanyatfu/hku-eee-style-report) tailored for school reports, specifically adhering to CAES9541 and ELEC4848 (FYP) standards. Designed to eliminate the hassle of adjusting document layouts and styling settings, this template has proven its worth by securing an A grade in 2024. It's available for cloning or as a template for your academic projects.
 
 
 ## 📚 What I am learning right now...
